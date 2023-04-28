@@ -1,0 +1,17 @@
+.header {
+
+  background-color: rgb(188, 230, 222);
+}
+.footer{
+  background-color: rgb(188, 230, 222);
+  margin-bottom: 0;
+  margin-top: auto;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   
+}
+.maindiv{
+  max-width: 100%;
+  max-height: 100%;
+}
